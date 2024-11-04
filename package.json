@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "install-notimeout": "yarn install --network-timeout 1000000"
+    "install-notimeout": "yarn install --network-timeout 1000001"
   },
   "private": true,
   "dependencies": {
